@@ -9,9 +9,8 @@
 ##### İkramiye: Emlak acentesinin, danışmanlarına kotalarını doldurmaları durumunda maaşlarına ekolarak ödediği, net asgari ücretin yarısı tutarındaki ücreti ifade etmektedir.
 ##### Aylık Toplam Ücret: Emlak acentesinin, danışmanlarına bir ayda ödediği maaş, prim ve ikramiyetoplamını ifade etmektedir.
 
-Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık performanslarını ve ücretlerini hesaplamak, o ay yapılan satış/kiralama işlemleri ve danışmanlar hakkında bazı istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir.
+## Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık performanslarını ve ücretlerini hesaplamak, o ay yapılan satış/kiralama işlemleri ve danışmanlar hakkında bazı istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir. Bunun için, öncelikle acenteye bağlı olarak çalışan emlak danışmanı sayısı , daha sonra her danışman için aşağıdaki veriler programa girilecektir:
 
-- Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık performanslarını ve ücretlerini hesaplamak, o ay yapılan satış/kiralama işlemleri ve danışmanlar hakkında bazı istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir. Bunun için, öncelikle acenteye bağlı olarak çalışan emlak danışmanı sayısı , daha sonra her danışman için aşağıdaki veriler programa girilecektir:
 - ad soyad
 - maaş (TL): reel sayı (aylık net asgari ücret ya da daha büyük)
 - kota (TL): reel sayı (maaşının 10 katı ya da daha büyük)
@@ -21,8 +20,7 @@ Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık perf
 - o satış/kira bedeli (TL): reel sayı (0’dan büyük)
 - o ay sattığı/kiraladığı başka emlak olup olmadığı (E/e/H/h karakterleri)
 
-## Her emlak danışmanının verileri girildikten sonra, o danışman için aşağıdaki bilgiler ekrana
-yazdırılmalıdır:
+## Her emlak danışmanının verileri girildikten sonra, o danışman için aşağıdaki bilgiler ekrana yazdırılmaktadır:
 
 - adı soyadı
 - o ay sattığı emlak adedi, kiraladığı emlak adedi ve oranları (%)
@@ -38,8 +36,7 @@ yazdırılmalıdır:
 - o ay toplam ücreti (TL)
 
 
-## Tüm emlak danışmanları için veri girişleri bittikten sonra aşağıdaki istatistiksel bilgiler ekrana
-yazdırılmalıdır:
+## Tüm emlak danışmanları için veri girişleri bittikten sonra aşağıdaki istatistiksel bilgiler ekrana yazdırılmaktadır:
 
 - her emlak tipi için o ay satılan ve kiralanan emlak sayıları ile satılma oranları (%)
 - her emlak tipi için o ay satılan emlakların satış bedellerinin toplamı (TL) ve ortalaması
