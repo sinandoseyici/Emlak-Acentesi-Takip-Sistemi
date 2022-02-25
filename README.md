@@ -46,3 +46,9 @@ adı-soyadı
 - o ay en yüksek bedelle kiralanan konutun kira bedeli (TL), kiralayan danışmanın adısoyadı
 - o ay kiralanan konutlardan kira bedeli, aylık asgari net ücretten yüksek olan konutların
 sayısı ve kiralanan konutlar içindeki oranı (%)
+
+![image](https://user-images.githubusercontent.com/57726183/155809061-2fe79be7-9072-4fa5-9d75-804004c021e1.png)
+![image](https://user-images.githubusercontent.com/57726183/155809086-84f842bb-d3ee-43d2-90c3-a3a83797f2c6.png)
+![image](https://user-images.githubusercontent.com/57726183/155809112-dcb56ca4-9713-43bc-a29e-3c3d07004d0c.png)
+![image](https://user-images.githubusercontent.com/57726183/155809131-5a716fb5-abb5-4770-9883-1946f68ce356.png)
+
