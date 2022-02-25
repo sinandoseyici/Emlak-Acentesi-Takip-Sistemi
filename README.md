@@ -1,6 +1,6 @@
 # Emlak Acentesi Takip Sistemi
 
-### Aylık Net Asgari Ücret: 2020 yılı için belirlenen aylık net asgari ücret, 2324,70 TL’dir.
+##### Aylık Net Asgari Ücret: 2020 yılı için belirlenen aylık net asgari ücret, 2324,70 TL’dir.
 ### Emlak Komisyonu: Emlak acentesinin, yapılan her satış için satış bedelinin %4’ü kadar, her kiralama için 1 aylık kira bedeli kadar kazandığı ücreti ifade etmektedir.
 ### Emlak Danışmanı: Bir emlak acentesine bağlı olarak çalışan tanıtım ve pazarlama elemanınıifade etmektedir.
 ### Maaş: Emlak acentesinin, danışmanlarına ödediği aylık ücreti ifade etmektedir.
