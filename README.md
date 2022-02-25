@@ -21,5 +21,43 @@ Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık perf
 - o satış/kira bedeli (TL): reel sayı (0’dan büyük)
 - o ay sattığı/kiraladığı başka emlak olup olmadığı (E/e/H/h karakterleri)
 
-- Her emlak danışmanının verileri girildikten sonra, o danışman için aşağıdaki bilgiler ekrana
+## Her emlak danışmanının verileri girildikten sonra, o danışman için aşağıdaki bilgiler ekrana
 yazdırılmalıdır:
+
+- adı soyadı
+- o ay sattığı emlak adedi, kiraladığı emlak adedi ve oranları (%)
+- o ay sattığı emlakların tiplerine göre toplam bedelleri (TL) ve oranları (%)
+- o ay kiraladığı konutların ortalama kira bedeli (TL)
+- o ay en yüksek bedelle kiraladığı konutun kira bedeli (TL)
+- o ay maaşı (TL)
+- o ay primi (TL)
+- o ay kotası (TL)
+- o ay acenteye kazandırdığı toplam komisyon tutarı (TL)
+- o ay kotasını doldurup dolduramadığı
+- o ay kotasını doldurduysa alacağı ikramiye (TL)
+- o ay toplam ücreti (TL)
+
+
+## Tüm emlak danışmanları için veri girişleri bittikten sonra aşağıdaki istatistiksel bilgiler ekrana
+yazdırılmalıdır:
+
+- her emlak tipi için o ay satılan ve kiralanan emlak sayıları ile satılma oranları (%)
+- her emlak tipi için o ay satılan emlakların satış bedellerinin toplamı (TL) ve ortalaması
+(TL)
+- o ay en yüksek bedelle satılan emlağın tipi, satış bedeli (TL), satışı yapan danışmanın
+adı-soyadı
+- o ay en yüksek bedelle kiralanan konutun kira bedeli (TL), kiralayan danışmanın adısoyadı
+- o ay kiralanan konutlardan kira bedeli, aylık asgari net ücretten yüksek olan konutların
+sayısı ve kiralanan konutlar içindeki oranı (%)
+- o ay hiç satış yapamayan danışmanların sayısı ve tüm danışmanlar içindeki oranı (%)
+- o ay satış adeti olarak ve satış bedeli olarak en çok satış yapan danışmanların ayrı ayrı
+adı-soyadı, sattıkları emlak sayıları ve toplam satış bedelleri (TL)
+- o ay kotasını dolduran danışmanların sayısı ve tüm danışmanlar içindeki oranı (%)
+- o ay primi maaşından yüksek olan danışmanların sayısı ve tüm danışmanlar içindeki
+oranı (%)
+- o ay en az 10 adet veya en az 25000 TL tutarında emlak kiralayan danışmanların sayısı
+- o ay en yüksek prim alan ve en düşük prim alan danışmanların adı soyadı, maaşı, primi
+ve aylık toplam ücreti
+- o ay tüm emlak danışmanlarına ödenecek toplam ücretlerin toplamı (TL) ve ortalaması
+(TL)
+- o ay acentenin kazandığı toplam komisyon (TL)
