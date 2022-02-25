@@ -8,3 +8,21 @@
 ##### Kota: Emlak danışmanlarının, bağlı oldukları emlak acentesine 1 ayda kazandırmaları beklenen emlak komisyonu tutarını ifade etmektedir.
 ##### İkramiye: Emlak acentesinin, danışmanlarına kotalarını doldurmaları durumunda maaşlarına ekolarak ödediği, net asgari ücretin yarısı tutarındaki ücreti ifade etmektedir.
 ##### Aylık Toplam Ücret: Emlak acentesinin, danışmanlarına bir ayda ödediği maaş, prim ve ikramiyetoplamını ifade etmektedir.
+
+Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık performanslarını ve ücretlerini hesaplamak, o ay yapılan satış/kiralama işlemleri ve danışmanlar hakkında bazı istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir.
+
+Bir emlak acentesinde kullanılmak üzere, emlak danışmanlarının aylık performanslarını ve
+ücretlerini hesaplamak, o ay yapılan satış/kiralama işlemleri ve danışmanlar hakkında bazı
+istatistiksel bilgiler elde etmek için bir program geliştirilmesi istenmektedir. Bunun için, öncelikle
+acenteye bağlı olarak çalışan emlak danışmanı sayısı (0’dan büyük tamsayı), daha sonra her
+danışman için aşağıdaki veriler programa girilecektir:
+ ad soyad
+ maaş (TL): reel sayı (aylık net asgari ücret ya da daha büyük)
+ kota (TL): reel sayı (maaşının 10 katı ya da daha büyük)
+ o ay sattığı ya da kiraladığı her emlak için:
+o emlak tipi: Konut, İş yeri, Arsa (K/k/İ/i/A/a karakterleri)
+o işlem türü: Satış, Kiralama (S/s/K/k karakterleri)
+o satış/kira bedeli (TL): reel sayı (0’dan büyük)
+o o ay sattığı/kiraladığı başka emlak olup olmadığı (E/e/H/h karakterleri)
+Her emlak danışmanının verileri girildikten sonra, o danışman için aşağıdaki bilgiler ekrana
+yazdırılmalıdır:
