@@ -46,15 +46,3 @@ adı-soyadı
 - o ay en yüksek bedelle kiralanan konutun kira bedeli (TL), kiralayan danışmanın adısoyadı
 - o ay kiralanan konutlardan kira bedeli, aylık asgari net ücretten yüksek olan konutların
 sayısı ve kiralanan konutlar içindeki oranı (%)
-- o ay hiç satış yapamayan danışmanların sayısı ve tüm danışmanlar içindeki oranı (%)
-- o ay satış adeti olarak ve satış bedeli olarak en çok satış yapan danışmanların ayrı ayrı
-adı-soyadı, sattıkları emlak sayıları ve toplam satış bedelleri (TL)
-- o ay kotasını dolduran danışmanların sayısı ve tüm danışmanlar içindeki oranı (%)
-- o ay primi maaşından yüksek olan danışmanların sayısı ve tüm danışmanlar içindeki
-oranı (%)
-- o ay en az 10 adet veya en az 25000 TL tutarında emlak kiralayan danışmanların sayısı
-- o ay en yüksek prim alan ve en düşük prim alan danışmanların adı soyadı, maaşı, primi
-ve aylık toplam ücreti
-- o ay tüm emlak danışmanlarına ödenecek toplam ücretlerin toplamı (TL) ve ortalaması
-(TL)
-- o ay acentenin kazandığı toplam komisyon (TL)
